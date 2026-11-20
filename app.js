@@ -1,2 +1,1 @@
-console.log("First Console")
-console.log("Second Console")
+console.log("App Console 1")
